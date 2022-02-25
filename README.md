@@ -17,10 +17,22 @@ Applicants deemed capable of repaying the loan shall be labelled <b>Low</b> unde
 
 
 
+## ✅ Navigating through this notebook repo
+The Colab notebooks are created & maintained in a phase-wise system and each phase has a short summary sheet. The phases are as follows - 
+| Phase  | What it comprises of |
+| ------------- | ------------- |
+| 1 | *Introduction to the problem, source of data & the most appropriate performance metrics* |
+| 2 | *Exploratory Data Analysis, key insights from it, creation of additional features & feature selection*  |
+| 3 | *Modeling & comparisons (using PyCaret), Interpreting best model through LIME & SHAP for error analysis* |
+| 4 | *Advanced modeling & creation of PCA,LDA & error-based features* |
+| 5 | *Deployment & Productionization along with a consolidated summary report of the end-to-end implementation* |
+
+
+
 ## ✅ Python Libraries used
 | Name  | What its used for |
 | ------------- | ------------- |
-| Streamlit  |  *An open source app framework for building beautiful data and ML apps* |
+| Streamlit  | *An open source app framework for building beautiful data and ML apps* |
 | PyCaret  | *An open-source, low-code machine learning library in Python that automates machine learning workflows.*  |
 | PyOD | *A comprehensive and scalable Python toolkit for detecting outlying objects in multivariate data.* |
 | Phi-K | *A new and practical correlation coefficient based on several refinements to Pearson’s hypothesis test of independence of two variables.* |
