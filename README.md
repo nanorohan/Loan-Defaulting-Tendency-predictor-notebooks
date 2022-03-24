@@ -1,7 +1,7 @@
 # Loan Defaulting Tendency predictor - Repo of Colab notebooks
 This repo contains all the Colab notebooks used in order to do end-to-end binary classification model based on the [Home Credit Default Risk competition dataset](https://www.kaggle.com/c/home-credit-default-risk) hosted on Kaggle
 
-[💸Streamlit App](https://share.streamlit.io/nelsonchris1/ml-explainability-app/main/app.py)
+[💸Streamlit App](https://loan-def-predict.herokuapp.com/)
 
 
 
